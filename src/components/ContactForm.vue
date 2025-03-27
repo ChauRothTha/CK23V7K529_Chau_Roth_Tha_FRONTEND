@@ -10,7 +10,6 @@
       />
       <ErrorMessage name="name" class="error-feedback" />
     </div>
-
     <div class="form-group">
       <label for="email">E-mail</label>
       <Field

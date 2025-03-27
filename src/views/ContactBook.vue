@@ -4,7 +4,6 @@
     <div class="col-md-10">
       <InputSearch v-model="searchText" />
     </div>
-
     <!-- Danh sách liên hệ -->
     <div class="mt-3 col-md-6">
       <h4>
