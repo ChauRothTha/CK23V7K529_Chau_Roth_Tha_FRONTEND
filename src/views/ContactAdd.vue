@@ -40,7 +40,6 @@ export default {
   },
 };
 </script>
-
 <style scoped>
 .page {
   max-width: 400px;
